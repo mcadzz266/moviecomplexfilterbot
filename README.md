@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Rosestorycity/mcautofilter">
+<a href="https://heroku.com/deploy?template=https://github.com/mcadzz266/moviecomplexfilterbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
